@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# VMware
+*.lck/
