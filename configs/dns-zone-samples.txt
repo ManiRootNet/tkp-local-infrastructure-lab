@@ -1,0 +1,82 @@
+; ============================================================
+; DNS Zone Reference Samples — TKP.local
+; Non-sensitive structural reference only.
+; No production data. See ../README.md Security & Privacy.
+; ============================================================
+
+; ----------------------------------------------------------
+; Forward Lookup Zone: TKP.local
+; Primary: SRV-1 (10.10.10.1)  |  Secondary: SRV-2, SRV-01
+; DNSSEC: Signed
+; ----------------------------------------------------------
+
+; A records
+www              IN  A       10.10.10.2      ; IIS web server (SRV-2)
+
+; CNAME records
+ftp              IN  CNAME   www.TKP.local.  ; FTP service alias -> SRV-2
+dfs              IN  CNAME   www.TKP.local.  ; DFS namespace alias -> SRV-2
+
+; MX record
+@                IN  MX  10  srv-2.TKP.local.
+; Note: no real mail server is running on SRV-2 — this record
+; exists to demonstrate correct MX configuration only.
+
+; NS records
+@                IN  NS      srv-1.TKP.local.
+@                IN  NS      srv-2.TKP.local.
+@                IN  NS      srv-01.TKP.local.
+
+
+; ----------------------------------------------------------
+; Reverse Lookup Zone: 10.10.10.in-addr.arpa  (LAN A)
+; Primary: SRV-1  |  Secondary: SRV-2, SRV-01
+; DNSSEC: Signed
+; ----------------------------------------------------------
+
+1                IN  PTR     srv-1.TKP.local.
+2                IN  PTR     srv-2.TKP.local.
+@                IN  NS      srv-1.TKP.local.
+
+
+; ----------------------------------------------------------
+; Reverse Lookup Zone: 20.20.20.in-addr.arpa  (LAN B)
+; Primary: SRV-1  |  Secondary: SRV-2, SRV-01
+; DNSSEC: Signed
+; ----------------------------------------------------------
+
+1                IN  PTR     srv-3.TKP.local.
+@                IN  NS      srv-1.TKP.local.
+
+
+; ----------------------------------------------------------
+; Reverse Lookup Zone: 60.60.60.in-addr.arpa  (LAN F)
+; Primary: SRV-1  |  Secondary: SRV-2, SRV-01
+; DNSSEC: Signed
+; ----------------------------------------------------------
+
+1                IN  PTR     srv-02.TKP.local.
+2                IN  PTR     srv-01.TKP.local.
+@                IN  NS      srv-1.TKP.local.
+
+
+; ----------------------------------------------------------
+; ISP DNS — independent zone, not part of TKP.local
+; Primary: ISP (40.40.40.1)
+; DNSSEC: Signed independently
+; ----------------------------------------------------------
+
+; Forward (simulated external site)
+www.google.com.  IN  A       40.40.40.1
+
+; Reverse: 40.40.40.in-addr.arpa
+1                IN  PTR     isp.
+@                IN  NS      isp.
+
+
+; ----------------------------------------------------------
+; Conditional Forwarder (configured on SRV-1)
+; Forwards external resolution to the ISP DNS server
+; ----------------------------------------------------------
+; Forwarded zone : google.com
+; Forwarder IP   : 40.40.40.1

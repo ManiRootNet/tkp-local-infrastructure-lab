@@ -1,0 +1,101 @@
+﻿FirstName,LastName,SamAccountName,UserPrincipalName,Password,OU,Department,Title,Company,Office,Description
+Peyman,Karimi,pkarimi,pkarimi@TKP.local,123qwe@,TKP,IT,Specialist,MyCompany,Karaj,Peyman Karimi - TKP
+Nima,Rezaei,nrezaei,nrezaei@TKP.local,123qwe@,Lavin,Sales,Senior Staff,MyCompany,Shiraz,Nima Rezaei - Lavin
+Ehsan,Hosseini,ehosseini,ehosseini@TKP.local,123qwe@,Amins,IT,Senior Staff,MyCompany,Karaj,Ehsan Hosseini - Amins
+Nima,Nasiri,nnasiri,nnasiri@TKP.local,123qwe@,Employees,Admin,Staff,MyCompany,Shiraz,Nima Nasiri - Employees
+Kamran,Ansari,kansari,kansari@TKP.local,123qwe@,Group,Legal,Analyst,MyCompany,Karaj,Kamran Ansari - Group
+Omid,Tabatabaei,otabatabaei,otabatabaei@TKP.local,123qwe@,TKP,Support,Staff,MyCompany,Karaj,Omid Tabatabaei - TKP
+Siavash,Rahimi,srahimi,srahimi@TKP.local,123qwe@,Lavin,Marketing,Specialist,MyCompany,Karaj,Siavash Rahimi - Lavin
+Farhad,Naderi,fnaderi,fnaderi@TKP.local,123qwe@,Amins,Marketing,Senior Staff,MyCompany,Tehran,Farhad Naderi - Amins
+Nazanin,Karimi,nkarimi,nkarimi@TKP.local,123qwe@,Employees,Marketing,Coordinator,MyCompany,Shiraz,Nazanin Karimi - Employees
+Arash,Yousefi,ayousefi,ayousefi@TKP.local,123qwe@,Group,IT,Officer,MyCompany,Shiraz,Arash Yousefi - Group
+Maryam,Khosravi,mkhosravi,mkhosravi@TKP.local,123qwe@,TKP,Operations,Senior Staff,MyCompany,Shiraz,Maryam Khosravi - TKP
+Saeed,Mousavi,smousavi,smousavi@TKP.local,123qwe@,Lavin,Admin,Coordinator,MyCompany,Shiraz,Saeed Mousavi - Lavin
+Kamran,Ansari,kansari2,kansari2@TKP.local,123qwe@,Amins,Sales,Staff,MyCompany,Karaj,Kamran Ansari - Amins
+Navid,Kazemi,nkazemi,nkazemi@TKP.local,123qwe@,Employees,Sales,Team Lead,MyCompany,Tehran,Navid Kazemi - Employees
+Nazanin,Rostami,nrostami,nrostami@TKP.local,123qwe@,Group,Engineering,Coordinator,MyCompany,Karaj,Nazanin Rostami - Group
+Parisa,Ghasemi,pghasemi,pghasemi@TKP.local,123qwe@,TKP,Finance,Specialist,MyCompany,Tehran,Parisa Ghasemi - TKP
+Mahsa,Hashemi,mhashemi,mhashemi@TKP.local,123qwe@,Lavin,HR,Team Lead,MyCompany,Karaj,Mahsa Hashemi - Lavin
+Payam,Norouzi,pnorouzi,pnorouzi@TKP.local,123qwe@,Amins,Support,Team Lead,MyCompany,Mashhad,Payam Norouzi - Amins
+Navid,Naderi,nnaderi,nnaderi@TKP.local,123qwe@,Employees,IT,Team Lead,MyCompany,Tehran,Navid Naderi - Employees
+Neda,Norouzi,nnorouzi,nnorouzi@TKP.local,123qwe@,Group,Support,Senior Staff,MyCompany,Karaj,Neda Norouzi - Group
+Niloofar,Sharifi,nsharifi,nsharifi@TKP.local,123qwe@,TKP,Marketing,Team Lead,MyCompany,Isfahan,Niloofar Sharifi - TKP
+Hamid,Sharifi,hsharifi,hsharifi@TKP.local,123qwe@,Lavin,Engineering,Manager,MyCompany,Mashhad,Hamid Sharifi - Lavin
+Fatemeh,Sadeghi,fsadeghi,fsadeghi@TKP.local,123qwe@,Amins,Legal,Specialist,MyCompany,Shiraz,Fatemeh Sadeghi - Amins
+Ehsan,Sharifi,esharifi,esharifi@TKP.local,123qwe@,Employees,Admin,Analyst,MyCompany,Mashhad,Ehsan Sharifi - Employees
+Nima,Rezaei,nrezaei2,nrezaei2@TKP.local,123qwe@,Group,Legal,Officer,MyCompany,Tehran,Nima Rezaei - Group
+Vahid,Hosseini,vhosseini,vhosseini@TKP.local,123qwe@,TKP,Sales,Manager,MyCompany,Karaj,Vahid Hosseini - TKP
+Kourosh,Rahimi,krahimi,krahimi@TKP.local,123qwe@,Lavin,Admin,Senior Staff,MyCompany,Isfahan,Kourosh Rahimi - Lavin
+Nazanin,Zare,nzare,nzare@TKP.local,123qwe@,Amins,Engineering,Specialist,MyCompany,Shiraz,Nazanin Zare - Amins
+Ali,Amini,aamini,aamini@TKP.local,123qwe@,Employees,Sales,Specialist,MyCompany,Mashhad,Ali Amini - Employees
+Maryam,Kazemi,mkazemi,mkazemi@TKP.local,123qwe@,Group,Operations,Manager,MyCompany,Isfahan,Maryam Kazemi - Group
+Ali,Fallah,afallah,afallah@TKP.local,123qwe@,TKP,Support,Manager,MyCompany,Shiraz,Ali Fallah - TKP
+Sara,Alizadeh,salizadeh,salizadeh@TKP.local,123qwe@,Lavin,Support,Team Lead,MyCompany,Karaj,Sara Alizadeh - Lavin
+Parisa,Naderi,pnaderi,pnaderi@TKP.local,123qwe@,Amins,HR,Staff,MyCompany,Shiraz,Parisa Naderi - Amins
+Neda,Salehi,nsalehi,nsalehi@TKP.local,123qwe@,Employees,IT,Senior Staff,MyCompany,Mashhad,Neda Salehi - Employees
+Kaveh,Sadeghi,ksadeghi,ksadeghi@TKP.local,123qwe@,Group,IT,Team Lead,MyCompany,Shiraz,Kaveh Sadeghi - Group
+Amir,Mohammadi,amohammadi,amohammadi@TKP.local,123qwe@,TKP,Engineering,Senior Staff,MyCompany,Shiraz,Amir Mohammadi - TKP
+Navid,Rezaei,nrezaei3,nrezaei3@TKP.local,123qwe@,Lavin,HR,Officer,MyCompany,Shiraz,Navid Rezaei - Lavin
+Mehdi,Rostami,mrostami,mrostami@TKP.local,123qwe@,Amins,Legal,Analyst,MyCompany,Karaj,Mehdi Rostami - Amins
+Yasaman,Naderi,ynaderi,ynaderi@TKP.local,123qwe@,Employees,Finance,Specialist,MyCompany,Isfahan,Yasaman Naderi - Employees
+Iman,Hashemi,ihashemi,ihashemi@TKP.local,123qwe@,Group,Marketing,Officer,MyCompany,Shiraz,Iman Hashemi - Group
+Omid,Karimi,okarimi,okarimi@TKP.local,123qwe@,TKP,Finance,Team Lead,MyCompany,Tehran,Omid Karimi - TKP
+Shirin,Ahmadi,sahmadi,sahmadi@TKP.local,123qwe@,Lavin,Admin,Team Lead,MyCompany,Shiraz,Shirin Ahmadi - Lavin
+Nima,Ahmadi,nahmadi,nahmadi@TKP.local,123qwe@,Amins,Sales,Staff,MyCompany,Karaj,Nima Ahmadi - Amins
+Hossein,Sharifi,hsharifi2,hsharifi2@TKP.local,123qwe@,Employees,IT,Coordinator,MyCompany,Tehran,Hossein Sharifi - Employees
+Shadi,Sadeghi,ssadeghi,ssadeghi@TKP.local,123qwe@,Group,Support,Officer,MyCompany,Karaj,Shadi Sadeghi - Group
+Yasaman,Rezaei,yrezaei,yrezaei@TKP.local,123qwe@,TKP,Admin,Officer,MyCompany,Karaj,Yasaman Rezaei - TKP
+Roya,Yousefi,ryousefi,ryousefi@TKP.local,123qwe@,Lavin,Operations,Team Lead,MyCompany,Tehran,Roya Yousefi - Lavin
+Sara,Amini,samini,samini@TKP.local,123qwe@,Amins,Operations,Coordinator,MyCompany,Isfahan,Sara Amini - Amins
+Farzad,Bahrami,fbahrami,fbahrami@TKP.local,123qwe@,Employees,IT,Senior Staff,MyCompany,Tehran,Farzad Bahrami - Employees
+Hamid,Fallah,hfallah,hfallah@TKP.local,123qwe@,Group,Marketing,Senior Staff,MyCompany,Karaj,Hamid Fallah - Group
+Kamran,Jafari,kjafari,kjafari@TKP.local,123qwe@,TKP,Legal,Officer,MyCompany,Karaj,Kamran Jafari - TKP
+Ehsan,Moradi,emoradi,emoradi@TKP.local,123qwe@,Lavin,Support,Officer,MyCompany,Karaj,Ehsan Moradi - Lavin
+Hossein,Bahrami,hbahrami,hbahrami@TKP.local,123qwe@,Amins,Legal,Senior Staff,MyCompany,Tehran,Hossein Bahrami - Amins
+Babak,Farahani,bfarahani,bfarahani@TKP.local,123qwe@,Employees,IT,Senior Staff,MyCompany,Karaj,Babak Farahani - Employees
+Mehdi,Rahimi,mrahimi,mrahimi@TKP.local,123qwe@,Group,Engineering,Officer,MyCompany,Karaj,Mehdi Rahimi - Group
+Hamid,Sharifi,hsharifi3,hsharifi3@TKP.local,123qwe@,TKP,IT,Manager,MyCompany,Isfahan,Hamid Sharifi - TKP
+Ali,Norouzi,anorouzi,anorouzi@TKP.local,123qwe@,Lavin,Support,Officer,MyCompany,Mashhad,Ali Norouzi - Lavin
+Ehsan,Ansari,eansari,eansari@TKP.local,123qwe@,Amins,Legal,Officer,MyCompany,Karaj,Ehsan Ansari - Amins
+Kamran,Kazemi,kkazemi,kkazemi@TKP.local,123qwe@,Employees,Finance,Staff,MyCompany,Shiraz,Kamran Kazemi - Employees
+Farid,Farahani,ffarahani,ffarahani@TKP.local,123qwe@,Group,IT,Coordinator,MyCompany,Tehran,Farid Farahani - Group
+Hassan,Tabatabaei,htabatabaei,htabatabaei@TKP.local,123qwe@,TKP,Engineering,Manager,MyCompany,Tehran,Hassan Tabatabaei - TKP
+Shadi,Mohammadi,smohammadi,smohammadi@TKP.local,123qwe@,Lavin,HR,Senior Staff,MyCompany,Shiraz,Shadi Mohammadi - Lavin
+Hossein,Amini,hamini,hamini@TKP.local,123qwe@,Amins,Finance,Analyst,MyCompany,Tehran,Hossein Amini - Amins
+Niloofar,Sadeghi,nsadeghi,nsadeghi@TKP.local,123qwe@,Employees,Admin,Staff,MyCompany,Shiraz,Niloofar Sadeghi - Employees
+Amir,Rahimi,arahimi,arahimi@TKP.local,123qwe@,Group,Admin,Coordinator,MyCompany,Mashhad,Amir Rahimi - Group
+Farhad,Amini,famini,famini@TKP.local,123qwe@,TKP,Marketing,Team Lead,MyCompany,Mashhad,Farhad Amini - TKP
+Hamid,Rezaei,hrezaei,hrezaei@TKP.local,123qwe@,Lavin,Support,Officer,MyCompany,Mashhad,Hamid Rezaei - Lavin
+Vahid,Khosravi,vkhosravi,vkhosravi@TKP.local,123qwe@,Amins,Sales,Staff,MyCompany,Isfahan,Vahid Khosravi - Amins
+Sahar,Tabatabaei,stabatabaei,stabatabaei@TKP.local,123qwe@,Employees,Sales,Senior Staff,MyCompany,Shiraz,Sahar Tabatabaei - Employees
+Farhad,Nasiri,fnasiri,fnasiri@TKP.local,123qwe@,Group,Support,Manager,MyCompany,Mashhad,Farhad Nasiri - Group
+Hossein,Sharifi,hsharifi4,hsharifi4@TKP.local,123qwe@,TKP,Finance,Coordinator,MyCompany,Mashhad,Hossein Sharifi - TKP
+Mehdi,Bahrami,mbahrami,mbahrami@TKP.local,123qwe@,Lavin,Legal,Specialist,MyCompany,Shiraz,Mehdi Bahrami - Lavin
+Babak,Nasiri,bnasiri,bnasiri@TKP.local,123qwe@,Amins,IT,Specialist,MyCompany,Tehran,Babak Nasiri - Amins
+Fatemeh,Rostami,frostami,frostami@TKP.local,123qwe@,Employees,Sales,Senior Staff,MyCompany,Shiraz,Fatemeh Rostami - Employees
+Zahra,Rostami,zrostami,zrostami@TKP.local,123qwe@,Group,Support,Team Lead,MyCompany,Mashhad,Zahra Rostami - Group
+Farhad,Amini,famini2,famini2@TKP.local,123qwe@,TKP,Support,Officer,MyCompany,Mashhad,Farhad Amini - TKP
+Hassan,Mohammadi,hmohammadi,hmohammadi@TKP.local,123qwe@,Lavin,Operations,Specialist,MyCompany,Tehran,Hassan Mohammadi - Lavin
+Ali,Ebrahimi,aebrahimi,aebrahimi@TKP.local,123qwe@,Amins,HR,Specialist,MyCompany,Karaj,Ali Ebrahimi - Amins
+Farid,Bahrami,fbahrami2,fbahrami2@TKP.local,123qwe@,Employees,Legal,Analyst,MyCompany,Shiraz,Farid Bahrami - Employees
+Ali,Karimi,akarimi,akarimi@TKP.local,123qwe@,Group,Sales,Manager,MyCompany,Shiraz,Ali Karimi - Group
+Mohammad,Mousavi,mmousavi,mmousavi@TKP.local,123qwe@,TKP,Marketing,Manager,MyCompany,Isfahan,Mohammad Mousavi - TKP
+Fatemeh,Hosseini,fhosseini,fhosseini@TKP.local,123qwe@,Lavin,Support,Coordinator,MyCompany,Tehran,Fatemeh Hosseini - Lavin
+Leila,Jafari,ljafari,ljafari@TKP.local,123qwe@,Amins,Finance,Senior Staff,MyCompany,Mashhad,Leila Jafari - Amins
+Navid,Farahani,nfarahani,nfarahani@TKP.local,123qwe@,Employees,Operations,Manager,MyCompany,Karaj,Navid Farahani - Employees
+Mehdi,Yousefi,myousefi,myousefi@TKP.local,123qwe@,Group,HR,Analyst,MyCompany,Tehran,Mehdi Yousefi - Group
+Javad,Fallah,jfallah,jfallah@TKP.local,123qwe@,TKP,Marketing,Analyst,MyCompany,Karaj,Javad Fallah - TKP
+Behnam,Moradi,bmoradi,bmoradi@TKP.local,123qwe@,Lavin,Sales,Analyst,MyCompany,Tehran,Behnam Moradi - Lavin
+Roya,Sadeghi,rsadeghi,rsadeghi@TKP.local,123qwe@,Amins,Finance,Officer,MyCompany,Mashhad,Roya Sadeghi - Amins
+Kaveh,Mousavi,kmousavi,kmousavi@TKP.local,123qwe@,Employees,Finance,Team Lead,MyCompany,Tehran,Kaveh Mousavi - Employees
+Iman,Jafari,ijafari,ijafari@TKP.local,123qwe@,Group,Operations,Coordinator,MyCompany,Mashhad,Iman Jafari - Group
+Hossein,Naderi,hnaderi,hnaderi@TKP.local,123qwe@,TKP,Support,Coordinator,MyCompany,Shiraz,Hossein Naderi - TKP
+Hamid,Amini,hamini2,hamini2@TKP.local,123qwe@,Lavin,Legal,Coordinator,MyCompany,Tehran,Hamid Amini - Lavin
+Maryam,Sharifi,msharifi,msharifi@TKP.local,123qwe@,Amins,Support,Manager,MyCompany,Shiraz,Maryam Sharifi - Amins
+Arash,Hosseini,ahosseini,ahosseini@TKP.local,123qwe@,Employees,Sales,Analyst,MyCompany,Mashhad,Arash Hosseini - Employees
+Ashkan,Yousefi,ayousefi2,ayousefi2@TKP.local,123qwe@,Group,Marketing,Analyst,MyCompany,Shiraz,Ashkan Yousefi - Group
+Shadi,Karimi,skarimi,skarimi@TKP.local,123qwe@,TKP,Operations,Team Lead,MyCompany,Mashhad,Shadi Karimi - TKP
+Mohammad,Ansari,mansari,mansari@TKP.local,123qwe@,Lavin,Operations,Staff,MyCompany,Shiraz,Mohammad Ansari - Lavin
+Yasaman,Amini,yamini,yamini@TKP.local,123qwe@,Amins,Finance,Coordinator,MyCompany,Isfahan,Yasaman Amini - Amins
+Hossein,Amini,hamini3,hamini3@TKP.local,123qwe@,Employees,Marketing,Coordinator,MyCompany,Tehran,Hossein Amini - Employees
+Ashkan,Sharifi,asharifi,asharifi@TKP.local,123qwe@,Group,Support,Specialist,MyCompany,Isfahan,Ashkan Sharifi - Group
